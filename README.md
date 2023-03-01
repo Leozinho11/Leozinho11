@@ -1,5 +1,9 @@
 # Opa, tudo bom? 🤙
 ## Sou o Leo, ou como está logo ali, Leozinho11.
+<img align="center" alt="mainphoto" src="https://lh3.googleusercontent.com/zvBRGvXll0I_waE3BjlXI6nKiPFqWcPxq5KISjliZ8wOLhTb1UNGi-7mrGoOjqGfSHG-S5UzHDFMbF8MksxSDhm_WunK-MD_b4cQUyudZrSa0G2n6bv4dJy8ot08nJl73OsTn4O9vJfIake7D1Dgi13TUSoOhppTKsWocVZGlvNsC-8N9W792fN3Vj7gZF-i327JMKfDAkb_f-gkmwKDfQ9JPBv_u1wyY1XE5_1uO4js15S1xoBSKSZj3pLmlfBeXQ3Pbr9LWOM4On30UMbLijc_pDMyHcJW1tV6xhm-KJbC0JKdQpHXdISbEOEPg0D8H47a8fwHkoG2jvxvK0wjeaaJ4yMcfcyeqY1QnIra1teTO-k99tHsKS0iRTljreHITI_CkUeOCp1CRh3IX7EU-hczMgjb07nrTxnSUvQkmyC0R72uPbMORMLmdO6zHb6hYgcE5mYcN4YZkSxMP2UfJuzWDlzgF2PExmItgR5UDCSRjNv35xmO3PebvdIFv8yWMU5ttAdKm_7M_uOuArMzI-PSxNGoEVNKsGwKKk65rG5vA-nUWTTDm_H8uBoL23iNfS40SST7z1sAneG9t5aRYpe0Pia7nJaT7S46PHidC51_20YkP34_GgoHw715fVejR7Ziccqy-scFLlNDaJnici38uzDp150tc03Xim1dlLKbe9N7g3EuyHdx7xUGEsG_2aAPQinezKCzT0Rw-UM7VUQ2tpE3aLQ4TUfk5c3SA5YTvJAsoZTldAiDbLgPjrG4vmARUX0eO6cCK5SepzzQjRBAnU8yaI3orFxEMymRHzNozfr4z48NKAAj34O7cRNVZ6OFawwan0X7vLplV1iyaGwn7sL6_mmgZ9RzK_KAbE8eTDpi5TMvAgObd61ba7JdeNVml4ijbCdhC8vBxOyxv3VtfQusznj9QMHzLfzeYeFrrkhLRsXMIN_jJBKAyiVQ9v2MR3_mskcbpqYMqA=w509-h556-no?authuser=0"/>
+<br/>
+
+#
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lbarreto.11/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/leonardo-barreto-761861235/)
