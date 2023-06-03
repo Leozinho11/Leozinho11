@@ -1,6 +1,6 @@
 # Opa, tudo bom? 🤙
 ## Sou o Leo, ou como está logo ali, Leozinho11.
-<img align="center" alt="mainphoto" src=""C:\Users\leofe\Downloads\fotoGitHub.jpg""/>
+<img align="center" alt="mainphoto" src="C:\Users\leofe\Downloads\fotoGitHub.jpg"/>
 <br/>
 
 #
