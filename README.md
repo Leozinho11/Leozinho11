@@ -1,5 +1,6 @@
 # Opa, tudo bom? 🤙
 ## Sou o Leo, ou como está logo ali, Leozinho11.
+![IndigoHive](https://github.com/Leozinho11/Leozinho11/assets/101905902/92f2af9c-4e89-43c8-8cf6-58fb33685a03)
 <br/>
 
 #
