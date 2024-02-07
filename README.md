@@ -12,7 +12,7 @@
 ### Curso Análise e Desenvolvimento de Sistemas e amo aprender sobre Front-end.
 
 ### Tenho conhecimento nas seguintes linguagens e frameworks:
-<div style="display: inline_block">
+<div style="display: flex; gap: 1rem">
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
