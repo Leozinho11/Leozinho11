@@ -1,7 +1,6 @@
 # Opa, tudo bom? 🤙
 ## Sou o Leo, ou como está logo ali, Leozinho11.
-![IndigoHive](https://github.com/Leozinho11/Leozinho11/assets/101905902/92f2af9c-4e89-43c8-8cf6-58fb33685a03)
-<br/>
+![IndigoHive](https://github.com/Leozinho11/Leozinho11/assets/101905902/29f4d92e-969a-4009-ab47-0ae592e50458)
 
 #
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
