@@ -1,13 +1,12 @@
 # Opa, tudo bom? 🤙
 ## Sou o Leo, ou como está logo ali, Leozinho11.
-[![IndigoHive](https://github.com/Leozinho11/Leozinho11/assets/101905902/29f4d92e-969a-4009-ab47-0ae592e50458)](https://indigohive.com.br/)
 
 #
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/leonardo-barreto-761861235/)
 
 
-### Curso Análise e Desenvolvimento de Sistemas e amo aprender sobre Front-end.
+### Graduado em Análise e Desenvolvimento de Sistemas e amo aprender sobre novas tecnologias e inovações.
 
 ### Tenho conhecimento nas seguintes linguagens e frameworks:
 <div style="display: flex; gap: 1rem">
